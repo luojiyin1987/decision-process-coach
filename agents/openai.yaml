@@ -1,0 +1,5 @@
+interface:
+  display_name: Decision Process Coach
+  short_description: Turn uncertain choices into structured decisions with evidence, probabilities, risk controls, and review loops.
+  icon: brain
+  accent_color: "#2563eb"
