@@ -1,6 +1,6 @@
 ---
 name: decision-process-coach
-description: structured decision coaching for uncertain, high-consequence choices. use when the user asks for help making, evaluating, comparing, or stress-testing a decision in investing, career, business, product, strategy, hiring, purchasing, or personal planning. triggers include requests to use bayesian thinking, expected value, decision process, evidence weighting, risk assessment, pros and cons with rigor, pre-mortem, go/no-go recommendation, or a repeatable decision framework. helps convert messy inputs into assumptions, evidence, probabilities, options, expected value, risks, action rules, and review criteria.
+description: structured decision coaching for uncertain, high-consequence choices. use when the user asks for help making, evaluating, comparing, or stress-testing a decision in investing, career, business, product, strategy, hiring, purchasing, or personal planning. triggers include requests to use bayesian thinking, expected value, decision process, evidence weighting, risk assessment, pros and cons with rigor, pre-mortem, go/no-go recommendation, alpha from news, demand inflection, financial-statement translation, small-cap elasticity, market misclassification, or a repeatable decision framework. helps convert messy inputs into assumptions, evidence, probabilities, options, expected value, risks, action rules, and review criteria.
 ---
 
 # Decision Process Coach
@@ -106,6 +106,9 @@ Use for important decisions. Apply the full workflow and evidence table.
 ### Investment mode
 Use when the decision involves stocks, startups, crypto, sectors, or capital allocation. Focus on thesis, variant perception, catalyst, valuation, downside, position sizing, liquidity, and evidence that confirms or falsifies the thesis. Never rely on claimed track records or influencer authority without verification.
 
+### Alpha news mode
+Use when the user posts a news item, trend, launch, technical breakthrough, procurement signal, viral app, supply-chain observation, or market narrative and asks whether it creates investment alpha. Use `references/alpha-news.md`. The core move is to translate news into already-observed demand, then into financial-statement impact, then into small-company market-cap elasticity and verification indicators. Do not stop at whether the news is impressive.
+
 ### Career mode
 Use when the decision involves jobs, promotions, quitting, cofounders, education, relocation, or personal direction. Include energy, skill growth, reputation, option value, financial runway, and reversibility.
 
@@ -125,3 +128,4 @@ Use when the decision involves product bets, roadmap choices, market entry, hiri
 
 Use `references/framework.md` for the detailed decision framework.
 Use `references/templates.md` for reusable output templates and checklists.
+Use `references/alpha-news.md` when analyzing whether news, trends, launches, viral products, technical breakthroughs, or supply-chain signals can create market alpha through demand inflection and financial-statement transmission.
